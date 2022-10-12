@@ -1,4 +1,4 @@
-# Shoelace
+# Shoelace - Mantri
 
 A forward-thinking library of web components.
 
